@@ -1,5 +1,6 @@
 # py-stegano
 
+desktop app that uses steganography technology 
 
 ## TODO:
 * [x] init gui
